@@ -1,0 +1,13 @@
+RetailProj:
+  outputs:
+    dev:
+      account: WNHZUNY-OD72988
+      database: Retaildb
+      password: Training123456789
+      role: ACCOUNTADMIN
+      schema: sbt_retail
+      threads: 1
+      type: snowflake
+      user: KRISHNALEARNING
+      warehouse: LARGE_WH
+  target: dev
